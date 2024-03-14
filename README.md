@@ -9,15 +9,16 @@ img src="https://komarev.com/ghpvc/?username=ed031104&label=Profile%20views&colo
 
 - 💬 Pregúntame sobre **Java,C#,JavaScript**-
 
-📫 Cómo contactarme **edwin.noviembre.0306@gmail.com**<
+📫 Cómo contactarme **edwin.noviembre.0306@gmail.com**
 
-h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/eado22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/edwin-antonio-d%C3%A1vila-osorio-527877267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edwin Antonio Dávila Osorio" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/edwinantonio.davilaosorio.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edwin dávila" height="30" width=" 40" /></a>
 <a href="https://www.instagram.com/edwin_davila_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_davila_03" height="30" width="40" /></a>
-<a href="https://discord.gg/elmaistro9462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elmaistro9462" height="30" width="40" /></a>
+<a href="https://discord.gg/elmaistro9462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EL_SEÑOR_DE_LA_NOCHE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
