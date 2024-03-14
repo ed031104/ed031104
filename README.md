@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy ED031104</h1>
-<h3 align="center">Un apasionado desarrollador de backend</h3><p align="left"> <
-
-img src="https://komarev.com/ghpvc/?username=ed031104&label=Profile%20views&color=0e75b6&style=flat" alt="ed031104" /> </p>
+<h3 align="center">Un apasionado desarrollador de backend</h3><p align="left">
+<img src="https://komarev.com/ghpvc/?username=ed031104&label=Profile%20views&color=0e75b6&style=flat" alt="ed031104" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed031104" alt="ed031104" /></a> </p>
 
