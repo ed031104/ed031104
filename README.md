@@ -1,23 +1,7 @@
-<style>
-    .header{
-        display: flex;
-        align-items: ;
-        justify-content: center;
-        background-color: ;
-    }
-
-    .header img{
-        border-radius: 9999px;
-        width: 200px;
-        heigth: 200px
-    }
-</style>
 
 <h1 align="center"> 👋 Hi, I'm Edwin Dávila</h1>
-<div class="header">
-<img src="https://i.ibb.co/3p3Qyq7/link.jpg" alt="link" border="0"/>
-<p>Hola soy edwin antonio dávila osorio<p/>
-</div>
+
+
 <h3 align="center">A Passionate Backend Developer</h3><p align="left">
 <img src="https://komarev.com/ghpvc/?username=ed031104&label=Profile%20views&color=0e75b6&style=flat" alt="ed031104" /> </p>
 
