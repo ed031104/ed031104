@@ -1,6 +1,27 @@
-<h1 align="center"> 👋 Hi, I'm ED031104</h1>
+<style>
+    .header{
+        display: flex;
+        align-items: ;
+        justify-content: center;
+        background-color: ;
+    }
+
+    .header img{
+        border-radius: 9999px;
+        width: 200px;
+        heigth: 200px
+    }
+</style>
+
+<h1 align="center"> 👋 Hi, I'm Edwin Dávila</h1>
+<div class="header">
+<img src="https://i.ibb.co/3p3Qyq7/link.jpg" alt="link" border="0"/>
+<p>Hola soy edwin antonio dávila osorio<p/>
+</div>
 <h3 align="center">A Passionate Backend Developer</h3><p align="left">
 <img src="https://komarev.com/ghpvc/?username=ed031104&label=Profile%20views&color=0e75b6&style=flat" alt="ed031104" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed031104" alt="ed031104" /></a> </p>
 
@@ -29,3 +50,4 @@
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ed031104&show_icons=true&locale=en" alt="ed031104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed031104&" alt="ed031104" /></p>
+
